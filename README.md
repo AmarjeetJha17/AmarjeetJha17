@@ -44,7 +44,7 @@
 </p>
 
 ### 📍 Currently
-- **Seeking Summer 2026 Internship** in **Data Science, AI/ML Engineering & Generative AI** roles (Pune / Bangalore / Remote)
+- **Seeking Internship / Job** in **Data Science, AI/ML Engineering & Generative AI** roles (Pune / Bangalore / Remote)
 - Passionate about building **deployable, impactful AI solutions** that solve real-world problems
 
 ---
